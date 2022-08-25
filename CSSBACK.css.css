@@ -1,0 +1,22 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('2.jpg');
+    background-size: cover;
+    background-position: top;
+}
+
+h1, h2, h3, p, a {
+    color: #fdfdfd;
+    text-align: center;
+}
+.social {
+    margin: 10px auto;
+}
+
+.social a i{
+    margin: 5px;
+}
